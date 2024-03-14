@@ -9,56 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Yicheng Fu
++1 650-374-9472 | easonfu@stanford.edu | [GitHub](https://github.com/sofyc) | [LinkedIn](https://www.linkedin.com/in/eason-fu)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+**Stanford University, CA**  
+*09/2023 - 06/2025*  
+Master’s in Electrical Engineering  
+Course: Parallel Computing, Systems for Machine Learning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Cornell University, NY**  
+*01/2022 - 05/2022*  
+Exchange | Major in Electrical and Computer Engineering  
+GPA: 4.24/4.3
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Tsinghua University, China**  
+*08/2019 - 07/2023*  
+Bachelor’s in Electronic Info Science and Tech  
+Minor in Statistics  
+GPA: 3.95/4.0 | Rank: TOP 5
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Experience
+**Microsoft Research Asia, Beijing**  
+*03/2023 - 07/2023*  
+Machine Learning Engineer Intern
+- Designed a data compression algorithm using LLMs and LoRA tuning.
+- Implemented LoRA tuning and model parallelism for data compression algorithm.
+- Explored speculative decoding techniques in causal language models.
+
+**SwiftSage**  
+*10/2022 - 03/2023*  
+Machine Learning Engineer Intern at 4Paradigm & Research Assistant, Supervised by Prof. Xiang Ren
+- Developed SwiftSage, enhancing interactive task completion performance.
+- Improved code of ScienceWorld.
+- Experimented with SwiftSage, leading to performance boosts.
+
+**P-Tuning v2**  
+*07/2021 - 01/2022*  
+Research Assistant, Supervised by Prof. Jie Tang, Focus on Natural Language Processing
+- Implemented P-Tuning v2, closing the gap for fine-tuning with only 1% tuned parameters.
+- Conducted extensive experiments on commonly used pre-trained models.
+- Co-authored the paper P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks.
+
+**Open Source Promotion Plan 2023 Project —— DolphinScheduler**  
+*08/2023 - 09/2023*  
+Contributor
+- Implemented Mixin classes and modularized functionality units.
+- Developed code to deploy tasks with additional resource limits like Kubernetes.
+- Crafted unit tests, wrote example scripts, and expanded project documentation.
+
+## Skills
+- Programming Languages: C/C++, Java, Python, R, Verilog, SQL, MATLAB, MIPS Assembly, CUDA C/C++
+- Tools: VS Code, Git, PyTorch, Linux, Shell, Docker, Scikit-learn, Pandas, Matplotlib, Azure Cloud
+
