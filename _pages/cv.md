@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Yicheng Fu
-
 ## Education
 **Stanford University, CA**  
 *09/2023 - 06/2025*  
