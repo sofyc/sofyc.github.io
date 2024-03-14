@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 # Yicheng Fu
-+1 650-374-9472 | easonfu@stanford.edu | [GitHub](https://github.com/sofyc) | [LinkedIn](https://www.linkedin.com/in/eason-fu)
 
 ## Education
 **Stanford University, CA**  
