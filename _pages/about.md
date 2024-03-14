@@ -1,11 +1,11 @@
-<!-- ---
+---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yicheng Fu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- -->
+---
 
 About me
 ------
