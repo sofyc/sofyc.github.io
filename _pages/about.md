@@ -23,3 +23,7 @@ ACL 2022
 [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://arxiv.org/pdf/2305.17390) \\
 Bill Yuchen Lin, *Yicheng Fu*, Karina Yang, Faeze Brahman, Shiyu Huang, Chandra Bhagavatula, Prithviraj Ammanabrolu, Yejin Choi, Xiang Ren\\
 <span style="color:red">(spotlight)</span> NeurIPS 2023
+
+[UI-JEPA: Towards Active Perception of User Intent through Onscreen User Activity](http://www.arxiv.org/abs/2409.04081) \\
+*Yicheng Fu*, Raviteja Anantha\*, Prabal Vashisht\*, Jianpeng Cheng, Etai Littwin\\
+Preprint 2024

@@ -27,6 +27,14 @@ Minor in Statistics
 GPA: 3.95/4.0 | Rank: TOP 5
 
 ## Experience
+**Apple, Seattle**  
+*06/2024 - 09/2024*  
+Machine Learning Engineer Intern
+- Developed UI-JEPA, combining a JEPA video encoder with an LLM decoder to generate user intent from videos, outperforming SOTA MLLMs including Claude-3.5-sonnet and GPT-4 Turbo, while using just 5% of their model size, achieving 50.5x lower computational cost, and offering a 6.6x reduction in latency. https://arxiv.org/abs/2409.04081. 
+- Created the first personalized planning benchmark, MultiCap, evaluating LLM ability to reason over personal context.
+- Developed the CAMPHOR collaborative agent framework to enhance LLM responses by actively seeking relevant information and leveraging function call embeddings for retrieval, leading to a 19.5% improvement in response quality, a 30.5% increase in tool accuracy, and a 62.5% increase in plan accuracy compared to baseline models on MultiCap.
+
+
 **Microsoft Research Asia, Beijing**  
 *03/2023 - 07/2023*  
 Machine Learning Engineer Intern
