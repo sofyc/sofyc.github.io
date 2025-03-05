@@ -34,7 +34,6 @@ Machine Learning Engineer Intern
 - Created the first personalized planning benchmark, MultiCap, evaluating LLM ability to reason over personal context.
 - Developed the CAMPHOR collaborative agent framework to enhance LLM responses by actively seeking relevant information and leveraging function call embeddings for retrieval, leading to a 19.5% improvement in response quality, a 30.5% increase in tool accuracy, and a 62.5% increase in plan accuracy compared to baseline models on MultiCap.
 
-
 **Microsoft Research Asia, Beijing**  
 *03/2023 - 07/2023*  
 Machine Learning Engineer Intern
